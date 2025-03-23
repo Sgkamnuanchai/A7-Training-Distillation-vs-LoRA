@@ -25,7 +25,7 @@ To address these challenges, I propose using layer-wise probing to guide fine-tu
 
 ## 3. Sample Inference:
 - This model will perform classification into four classes: noHate, hate, idk/skip, and relation.
-- Sample_Text : "i hate you" , result : "hate"
+- Sample_Text : "i hate you"
 ![App Screenshot](assets/inference.png)
 
 ## 4. Demo
